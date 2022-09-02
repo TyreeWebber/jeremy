@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Jeremy Website
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(HEAVY WIP) this is me building a landing page and webstore for a friend as practice :)
+
+
 
 ## Available Scripts
 
