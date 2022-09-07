@@ -1,11 +1,14 @@
-import './App.css';
+import React from 'react';
+import Header from './components/header/Header';
+import ImageCarousel from './components/imageCarousel/imageCarousel';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      PlaceHolder
-    </div>
-  );
+    <>
+      <Header />
+      <ImageCarousel />
+    </>
+  )
 }
 
 export default App;
