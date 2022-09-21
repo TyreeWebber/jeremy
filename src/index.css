@@ -9,7 +9,7 @@
 }
 
 :root {
-  --bg-color: #2b2b2b;
+  --bg-color: #000;
   --bg-color-variant: #1E1E1E;
   --text-color: #fff;
   --transition: all 400ms ease;
@@ -28,7 +28,7 @@ html {
 }
 
 body {
-  background: var(--color-bg);
+  background: var(--bg-color);
   color: var(--text-color);
   line-height: 1.7;
 }
